@@ -1,0 +1,2 @@
+# igGrid
+### a Sails application
